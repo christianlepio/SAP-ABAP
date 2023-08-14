@@ -10,5 +10,5 @@ SAP ABAP References
 
 | Description         | Documentation |
 |--------------|:-----:|
-| Program Implementation of Global Class (Create PO and SO number, Display in ALV Format, With Clickable function on each cell in ALV to go to TCODE ME23N) |  1.99 |
-| Email zprogram, connected to zprogram ZABAP_EX16GBLCLASS_PDC6      |  1.89 |
+| Program Implementation of Global Class (Create PO and SO number, Display in ALV Format, With Clickable function on each cell in ALV to go to TCODE ME23N) |  <a href="https://github.com/christianlepio/SAP-ABAP/blob/main/REPORT%20ZABAP_EX16GBLCLASS_PDC6.pdf">ZABAP_EX16GBLCLASS_PDC6.pdf</a> |
+| Email zprogram, connected to zprogram ZABAP_EX16GBLCLASS_PDC6      |  <a href="https://github.com/christianlepio/SAP-ABAP/blob/main/Email%20zprogram.pdf">Email_zprogram.pdf</a> |
